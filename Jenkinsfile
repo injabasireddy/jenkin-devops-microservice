@@ -19,7 +19,7 @@
 
 //DECLARATIVE
 
-pipelinec{
+pipeline {
 	agent any
 	stages {
 		stage( 'Build' ) {
